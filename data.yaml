@@ -1,6 +1,0 @@
-
-train: /content/dataset/dataset/train/images
-val: /content/dataset/dataset/valid/images
-
-nc: 3
-names: ['potholes', 'cracks', 'open_manhole']
